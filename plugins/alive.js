@@ -260,7 +260,7 @@ return await conn.sendMessage(m.chat, {document: fs.readFileSync("./package.json
             fileName: `😼ＫＥＮＺＩ-ＭＤ.🤍`,
             mimetype: "application/pdf",
             fileLength: 99999999999999,
-            pageCount: 2024, caption: text,
+            pageCount: 2024, caption: texta,
 contextInfo: {
 forwardingScore: 999,
 isForwarded: false,
@@ -332,7 +332,7 @@ return await conn.sendMessage(m.chat, {document: fs.readFileSync("./package.json
             fileName: `😼ＫＥＮＺＩ-ＭＤ.🤍`,
             mimetype: "application/pdf",
             fileLength: 99999999999999,
-            pageCount: 2024, caption: text,
+            pageCount: 2024, caption: textb,
 contextInfo: {
 forwardingScore: 999,
 isForwarded: false,
@@ -389,7 +389,7 @@ return await conn.sendMessage(m.chat, {document: fs.readFileSync("./package.json
             fileName: `😼ＫＥＮＺＩ-ＭＤ.🤍`,
             mimetype: "application/pdf",
             fileLength: 99999999999999,
-            pageCount: 2024, caption: text,
+            pageCount: 2024, caption: textc,
 contextInfo: {
 forwardingScore: 999,
 isForwarded: false,
